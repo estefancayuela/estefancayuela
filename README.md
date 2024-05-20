@@ -1,17 +1,13 @@
+# Estefan Cayuela
 ### Hi there 👋
-##Estefan Cayuela
 
-<!--
-**estefancayuela/estefancayuela** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Software Developer actually working on a backend app (maybe you can't see the repo yet) it will be available soon.
 
-Here are some ideas to get you started:
+I program in some languages like:
+- Python
+- Java
+- SQL
+- JavaScript (coming soon🤞)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+If you wanna contact me the best way is LinkedIn or email.
+
