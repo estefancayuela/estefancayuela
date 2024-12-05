@@ -7,7 +7,6 @@ I program in some languages like:
 - Python
 - Java
 - SQL
-- JavaScript (coming soon🤞)
 
 If you wanna contact me the best way is LinkedIn or email.
 
