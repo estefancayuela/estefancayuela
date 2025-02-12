@@ -1,12 +1,11 @@
 # Estefan Cayuela
 ### Hi there 👋
 
-I'm a Software Developer actually working on a backend app (maybe you can't see the repo yet) it will be available soon.
+I'm a Software Developer actually working on some side projects.
 
 I program in some languages like:
 - Python
 - Java
-- SQL
 
-If you wanna contact me the best way is LinkedIn or email.
+If you wanna contact me, the best way is LinkedIn or email.
 
