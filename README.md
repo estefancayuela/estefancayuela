@@ -3,7 +3,7 @@
 
 I'm a Software Developer actually working on some side projects.
 
-I program in some languages like:
+I program in:
 - Python
 - Java
 
