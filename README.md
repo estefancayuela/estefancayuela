@@ -1,6 +1,6 @@
 # Estefan Cayuela
 
-## 👋 ¡Hello, World! I'm Estèfan Cayuela  
+## 👋 ¡Hello, World! I'm Estèfan  
 
 ### 🚀 Developer | intrapreneur | Innovative
 
