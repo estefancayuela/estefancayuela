@@ -2,7 +2,7 @@
 
 ## 👋 ¡Hello, World! I'm Estèfan  
 
-### 🚀 Developer | intrapreneur | Innovative
+### 🚀 Developer | Problem Solver | Scalable Solution Builder
 
 Welcome to my GitHub corner. I am passionate about technology, innovation, and building scalable solutions that make a difference. Currently, I am working on developing tech projects with the goal of creating successful initiatives that drive meaningful impact.
 
