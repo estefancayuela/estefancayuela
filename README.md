@@ -12,7 +12,7 @@ Welcome to my GitHub corner. I am passionate about technology, innovation, and b
 
 - 🔥 Passionate about programming, artificial intelligence, and automation.  
 - 💡 Always seeking new ideas and innovative solutions.  
-- 🏗️ Building [your_featured_project](https://github.com/estefancayuela/TaskManager).  
+- 🏗️ Building [Task Manager](https://github.com/estefancayuela/TaskManager).  
 - 🚀 Involved in exciting tech projects and startups.  
 - 🌍 Focused on global impact through technology.  
 
