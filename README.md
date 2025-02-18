@@ -30,7 +30,7 @@ Welcome to my GitHub corner. I am passionate about technology, innovation, and b
 
 ### 📈 GitHub statistics
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=estefancayuela)](https://git.io/streak-stats)
+![GitHub Streak](https://streak-stats.demolab.com/?user=estefancayuela)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=estefancayuela&layout=compact&theme=radical&hide_border=true)
 
 ---
